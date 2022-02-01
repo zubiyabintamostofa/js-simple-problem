@@ -1,4 +1,4 @@
-var first=9;
+var first=11;
 var second=21;
 console.log(first,second);
 var temp=first;
