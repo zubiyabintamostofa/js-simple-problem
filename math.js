@@ -18,5 +18,5 @@ console.log(paici);
 //random punnosongkha pete cheile:
 
 const hernum3=39.889;
-const ans2=Math.random()*10;
+const ans2=Math.random()*6;
 console.log(ans2);
