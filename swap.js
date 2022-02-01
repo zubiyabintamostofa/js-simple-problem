@@ -1,5 +1,5 @@
 var first=9;
-var second=22;
+var second=21;
 console.log(first,second);
 var temp=first;
 first=second;
