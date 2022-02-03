@@ -8,6 +8,6 @@ function largestElement(num){
         
     }return largest;
 }
-const ages=[12,34,56,123,034,321];
+const ages=[12,34,56,123,321];
 const oldest=largestElement(ages);
 console.log(oldest);
